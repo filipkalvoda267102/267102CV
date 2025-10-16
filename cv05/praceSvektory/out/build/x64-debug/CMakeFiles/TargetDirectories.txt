@@ -1,0 +1,5 @@
+D:/267102/267102CV/cv05/praceSvektory/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/267102/267102CV/cv05/praceSvektory/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/267102/267102CV/cv05/praceSvektory/out/build/x64-debug/praceSvektory/CMakeFiles/praceSvektory.dir
+D:/267102/267102CV/cv05/praceSvektory/out/build/x64-debug/praceSvektory/CMakeFiles/edit_cache.dir
+D:/267102/267102CV/cv05/praceSvektory/out/build/x64-debug/praceSvektory/CMakeFiles/rebuild_cache.dir
