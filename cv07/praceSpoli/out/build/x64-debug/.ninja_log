@@ -1,0 +1,25 @@
+# ninja log v6
+7	191	7835230948251012	build.ninja	6c27a06a84c9e231
+14	1324	7835231493576089	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+15	994	7835232104649951	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+16	1003	7835232275791942	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+14	988	7835232599703905	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+14	994	7835233522035139	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+15	1014	7835233797444458	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+16	1004	7835234132699969	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+7	66	7835234239023184	CMakeFiles/praceSpoli.dir/body2d.cpp.obj	7b9add9721c2eff6
+66	542	7835234239661529	praceSpoli.exe	350369bf9721bb7b
+7	357	7835249415608674	CMakeFiles/praceSpoli.dir/body2d.cpp.obj	7b9add9721c2eff6
+8	73	7835250162457978	CMakeFiles/praceSpoli.dir/body2d.cpp.obj	7b9add9721c2eff6
+7	74	7835254539230649	CMakeFiles/praceSpoli.dir/body2d.cpp.obj	7b9add9721c2eff6
+7	990	7835256141919847	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+991	1266	7835256151791168	praceSpoli.exe	350369bf9721bb7b
+10	1096	7835256722008904	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+1097	1375	7835256732990446	praceSpoli.exe	350369bf9721bb7b
+15	1270	7835270845330894	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+8	121	7835271018458342	CMakeFiles/praceSpoli.dir/body2d.cpp.obj	7b9add9721c2eff6
+122	380	7835271019569384	praceSpoli.exe	350369bf9721bb7b
+7	988	7835272642884017	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+989	1232	7835272652837294	praceSpoli.exe	350369bf9721bb7b
+25	1006	7835276970808880	CMakeFiles/praceSpoli.dir/praceSpoli.cpp.obj	661f911b8e124e8b
+1007	1221	7835276980702870	praceSpoli.exe	350369bf9721bb7b
