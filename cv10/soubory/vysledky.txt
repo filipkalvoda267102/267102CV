@@ -1,0 +1,4 @@
+Pismena: 85
+Cisla: 7
+Vety: 2
+Slova: 21
