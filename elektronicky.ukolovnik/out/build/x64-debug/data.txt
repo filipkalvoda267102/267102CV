@@ -1,0 +1,5 @@
+8;Odevzdani projektu do programka;4;12;2025;11;0;3;0
+5;koupit rohliky;4;-858993460;-858993460;-1;0;-858993460;0
+2;koupit rohlik;25;11;2025;8;40;3;0
+1;jjj;25;11;2025;-1;0;3;0
+3;koupit rohlik;25;11;2025;8;40;3;0
